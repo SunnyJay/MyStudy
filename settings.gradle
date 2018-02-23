@@ -1,2 +1,5 @@
-rootProject.name = 'studycorejava'
+rootProject.name = 'study-project'
+
+include 'study-springboot'
+include 'study-basic'
 
